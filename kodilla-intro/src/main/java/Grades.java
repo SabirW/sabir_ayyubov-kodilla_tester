@@ -19,7 +19,7 @@ public class Grades {
         if (this.size > 0){
             int last = this.grades[this.size - 1];
             System.out.println(last);
-        }else {
+        } else {
             System.out.println("No grades have been added yet.");
         }
     }

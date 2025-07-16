@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6f68f02-2835-4cbc-a279-163eb548e967" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/Grades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/RandomNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-intro/src/main/java/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/FirstClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-intro/build/classes/java/main/FirstClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-intro/build/classes/java/main/FirstClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-intro/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-intro/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-intro/src/main/java/Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/Grades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-intro/src/main/java/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/LeapYear.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-intro/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +58,7 @@
     "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Loops.main()].executor": "Run",
     "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:MainExtended.main()].executor": "Run",
     "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Notebook.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:RandomNumbers.main()].executor": "Run",
     "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:SimpleArray.main()].executor": "Run",
     "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:main.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
@@ -62,23 +74,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FirstClass">
+  <component name="RunManager" selected="Application.RandomNumbers">
     <configuration name="FirstClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FirstClass" />
-      <module name="kodilla-course.kodilla-intro.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeapYear" />
-      <module name="kodilla-course.kodilla-intro.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops" />
       <module name="kodilla-course.kodilla-intro.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,6 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RandomNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomNumbers" />
+      <module name="kodilla-course.kodilla-intro.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimpleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SimpleArray" />
       <module name="kodilla-course.kodilla-intro.main" />
@@ -98,13 +103,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main" />
+      <module name="kodilla-course.kodilla-intro.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomNumbers" />
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.FirstClass" />
         <item itemvalue="Application.Notebook" />
         <item itemvalue="Application.SimpleArray" />
-        <item itemvalue="Application.Loops" />
-        <item itemvalue="Application.LeapYear" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +136,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751487221502</updated>
       <workItem from="1751487223174" duration="45083000" />
-      <workItem from="1752421813968" duration="14248000" />
+      <workItem from="1752421813968" duration="23351000" />
     </task>
     <servers />
   </component>
