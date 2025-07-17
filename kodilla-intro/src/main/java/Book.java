@@ -9,8 +9,6 @@ public class Book {
     }
 
     public static Book of(String author, String title) {
-        this.author = author;
-        this.title = title;
         return new Book(author, title);
 
     }
