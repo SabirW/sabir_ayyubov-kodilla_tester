@@ -7,7 +7,6 @@ public class ApplicationUser {
         this.name = name;
         this.userAge = userAge;
         this.userHeight = userHeight;
-
     }
 
     public  boolean getAverageAge() {

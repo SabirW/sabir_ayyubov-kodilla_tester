@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6f68f02-2835-4cbc-a279-163eb548e967" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/ApplicationUser.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-intro/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-intro/src/main/java/ApplicationUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-intro/src/main/java/ApplicationUser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +126,7 @@
       <option name="presentableId" value="Default" />
       <updated>1751487221502</updated>
       <workItem from="1751487223174" duration="45083000" />
-      <workItem from="1752421813968" duration="38587000" />
+      <workItem from="1752421813968" duration="38978000" />
     </task>
     <servers />
   </component>
