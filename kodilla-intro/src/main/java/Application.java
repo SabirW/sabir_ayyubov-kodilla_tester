@@ -1,8 +1,4 @@
 public class Application {
-
-    User newUser = new User("Adam", 40);
-
-
     public static void main(String[] args) {
 
         ApplicationUser newUser = new ApplicationUser("Adam", 40, 180);

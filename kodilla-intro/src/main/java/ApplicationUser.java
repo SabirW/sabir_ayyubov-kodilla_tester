@@ -3,7 +3,6 @@ public class ApplicationUser {
     int userAge;
     int userHeight;
 
-
     public ApplicationUser(String name, int userAge, int userHeight) {
         this.name = name;
         this.userAge = userAge;
@@ -23,7 +22,5 @@ public class ApplicationUser {
                 return false;
             }
         }
-
-
     }
 
