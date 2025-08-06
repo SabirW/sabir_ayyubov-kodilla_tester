@@ -5,24 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6f68f02-2835-4cbc-a279-163eb548e967" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/bank/homework/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/bank/homework/CashMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/basic_assertion/PrimeChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/school/Grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/school/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/bank/homework/BankTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/bank/homework/CashMachineTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/basic_assertion/PrimeCheckerTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/school/GradesTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/school/StudentTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/InterfacesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/interfaces/homework/Opel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/bank/homework/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/bank/homework/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/bank/homework/CashMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/main/java/com/kodilla/bank/homework/CashMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/bank/homework/BankTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/bank/homework/BankTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/bank/homework/CashMachineTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-basic-tests/src/test/java/com/kodilla/bank/homework/CashMachineTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +53,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -61,56 +68,120 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.CalculatorTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashMachineTestSuite.CalculatingBalance.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashMachineTestSuite.CashMachineDepositing.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashMachineTestSuite.CashMachineProcedures.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashMachineTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.GradesTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.PrimeCheckerTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.PrimeCheckerTestSuite.shouldReturnFalseWhenPassingNotPrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.StudentTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.StudentTestSuite.shouldCalculateStudentAverage.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Tests in 'com.kodilla.school'.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.abstracts.Application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.basic_assertion.Application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.basic_assertion.application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.inheritance.Application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.inheritance.homework.Methods.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:AdvCalcApplication.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:CalcApplication.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:CollorShowing.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:DebugExample.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:FirstClass.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:HelloWorld.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:LeapYear.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Loops.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:MainExtended.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Notebook.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:RandomNumbers.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:SimpleArray.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.BankTestSuite.AddingATMS.executor": "Run",
+    "Gradle.BankTestSuite.executor": "Run",
+    "Gradle.CalculatorTestSuite.executor": "Run",
+    "Gradle.CashMachineTestSuite.CalculatingBalance.executor": "Run",
+    "Gradle.CashMachineTestSuite.CashMachineDepositing.executor": "Run",
+    "Gradle.CashMachineTestSuite.CashMachineProcedures.executor": "Run",
+    "Gradle.CashMachineTestSuite.executor": "Run",
+    "Gradle.GradesTestSuite.executor": "Run",
+    "Gradle.PrimeCheckerTestSuite.executor": "Run",
+    "Gradle.PrimeCheckerTestSuite.shouldReturnFalseWhenPassingNotPrimeNumber.executor": "Run",
+    "Gradle.StudentTestSuite.executor": "Run",
+    "Gradle.StudentTestSuite.shouldCalculateStudentAverage.executor": "Run",
+    "Gradle.Tests in 'com.kodilla.school'.executor": "Run",
+    "Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.abstracts.Application.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.basic_assertion.Application.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.basic_assertion.application.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.inheritance.Application.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.inheritance.homework.Methods.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.interfaces.InterfacesDemo.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:AdvCalcApplication.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Application.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:CalcApplication.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:CollorShowing.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:DebugExample.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:FirstClass.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:HelloWorld.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:LeapYear.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Loops.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:MainExtended.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Notebook.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:RandomNumbers.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:SimpleArray.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:main.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Gradle.CashMachineTestSuite">
+}]]></component>
+  <component name="RunManager" selected="Application.InterfacesDemo">
+    <configuration name="InterfacesDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.interfaces.InterfacesDemo" />
+      <module name="kodilla-course.kodilla-collections.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kodilla.collections.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":kodilla-basic-tests:test" />
+            <option value="--tests" />
+            <option value="&quot;com.kodilla.bank.homework.BankTestSuite&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="BankTestSuite.AddingATMS" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":kodilla-basic-tests:test" />
+            <option value="--tests" />
+            <option value="&quot;com.kodilla.bank.homework.BankTestSuite.AddingATMS&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <configuration name="CashMachineTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -125,54 +196,6 @@
             <option value=":kodilla-basic-tests:test" />
             <option value="--tests" />
             <option value="&quot;com.kodilla.bank.homework.CashMachineTestSuite&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="CashMachineTestSuite.CalculatingBalance" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":kodilla-basic-tests:test" />
-            <option value="--tests" />
-            <option value="&quot;com.kodilla.bank.homework.CashMachineTestSuite.CalculatingBalance&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
-    <configuration name="CashMachineTestSuite.CashMachineDepositing" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":kodilla-basic-tests:test" />
-            <option value="--tests" />
-            <option value="&quot;com.kodilla.bank.homework.CashMachineTestSuite.CashMachineDepositing&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -207,37 +230,13 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="Tests in 'com.kodilla.school'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":kodilla-basic-tests:test" />
-            <option value="--tests" />
-            <option value="&quot;com.kodilla.school.*&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.CashMachineTestSuite" />
+        <item itemvalue="Application.InterfacesDemo" />
+        <item itemvalue="Gradle.BankTestSuite" />
         <item itemvalue="Gradle.CashMachineTestSuite.CashMachineProcedures" />
-        <item itemvalue="Gradle.CashMachineTestSuite.CalculatingBalance" />
-        <item itemvalue="Gradle.CashMachineTestSuite.CashMachineDepositing" />
-        <item itemvalue="Gradle.Tests in 'com.kodilla.school'" />
+        <item itemvalue="Gradle.BankTestSuite.AddingATMS" />
+        <item itemvalue="Gradle.CashMachineTestSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +258,7 @@
       <workItem from="1751487223174" duration="45083000" />
       <workItem from="1752421813968" duration="56930000" />
       <workItem from="1753799429973" duration="23709000" />
-      <workItem from="1754393703252" duration="10900000" />
+      <workItem from="1754393703252" duration="21805000" />
     </task>
     <servers />
   </component>

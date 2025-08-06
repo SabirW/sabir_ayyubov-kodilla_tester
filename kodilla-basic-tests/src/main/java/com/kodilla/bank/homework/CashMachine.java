@@ -2,16 +2,15 @@ package com.kodilla.bank.homework;
 
 public class CashMachine {
     private int[] completedTransaction;
-    private int size;
-    private int balance;
+    private int size = 0;
 
     public CashMachine() {
-        this.completedTransaction = new int[0];
-        this.size = 0;
+        this.completedTransaction = new int[this.size];
     }
 
     public void addTransaction(int amount) {
         this.size++;
+        System.out.println(this.size);
         int[] transaction = new int[this.size];
         System.arraycopy(this.completedTransaction, 0, transaction, 0, completedTransaction.length);
         transaction[this.size - 1] = amount;

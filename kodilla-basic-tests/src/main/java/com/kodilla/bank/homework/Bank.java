@@ -47,8 +47,8 @@ public class Bank {
         int divider = 0;
         for (CashMachine atm : ATMS) {
             sum += atm.getWithdrawalSum();
-            divider += atm.getWithdrawal();
         }
+        divider += getWithdrawalCount();
         averegaPayoutValue = sum / divider;
         return averegaPayoutValue;
     }
