@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6f68f02-2835-4cbc-a279-163eb548e967" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/BasicMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/complex/ComplexMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/complex/Grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/complex/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/homework/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/homework/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/homework/SchoolDirectory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-    </list>
+    <list default="true" id="f6f68f02-2835-4cbc-a279-163eb548e967" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,7 +206,7 @@
       <workItem from="1752421813968" duration="56930000" />
       <workItem from="1753799429973" duration="23709000" />
       <workItem from="1754393703252" duration="23094000" />
-      <workItem from="1755551535159" duration="21175000" />
+      <workItem from="1755551535159" duration="21534000" />
     </task>
     <servers />
   </component>
