@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f6f68f02-2835-4cbc-a279-163eb548e967" name="Changes" comment="" />
+    <list default="true" id="f6f68f02-2835-4cbc-a279-163eb548e967" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/immutable/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/immutable/ImmutableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,7 +115,7 @@
       <recent name="com.kodilla.collections.adv.maps.homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SchoolDirectory">
+  <component name="RunManager" selected="Application.StampsApplication">
     <configuration name="BasicMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.adv.maps.BasicMapExample" />
       <module name="kodilla-course.kodilla-collections-advanced.main" />
@@ -206,7 +210,7 @@
       <workItem from="1752421813968" duration="56930000" />
       <workItem from="1753799429973" duration="23709000" />
       <workItem from="1754393703252" duration="23094000" />
-      <workItem from="1755551535159" duration="21534000" />
+      <workItem from="1755551535159" duration="22360000" />
     </task>
     <servers />
   </component>
