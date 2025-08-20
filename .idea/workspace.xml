@@ -5,18 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6f68f02-2835-4cbc-a279-163eb548e967" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/OrderApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/homework/Stamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-collections/src/main/java/com/kodilla/collections/sets/homework/StampsApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/BasicMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/complex/ComplexMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/complex/Grades.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/complex/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/homework/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/homework/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-collections-advanced/src/main/java/com/kodilla/collections/adv/maps/homework/SchoolDirectory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +91,9 @@
     "Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.lists.homework.CarsListApplication.main()].executor": "Run",
     "Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.sets.OrderApplication.main()].executor": "Run",
     "Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.sets.homework.StampsApplication.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections-advanced [:kodilla-collections-advanced:com.kodilla.collections.adv.maps.BasicMapExample.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections-advanced [:kodilla-collections-advanced:com.kodilla.collections.adv.maps.complex.ComplexMapExample.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections-advanced [:kodilla-collections-advanced:com.kodilla.collections.adv.maps.homework.SchoolDirectory.main()].executor": "Run",
     "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:AdvCalcApplication.main()].executor": "Run",
     "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Application.main()].executor": "Run",
     "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:CalcApplication.main()].executor": "Run",
@@ -116,13 +125,18 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StampsApplication">
-    <configuration name="CarsListApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.lists.homework.CarsListApplication" />
-      <module name="kodilla-course.kodilla-collections.main" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.kodilla.collections.adv.maps.homework" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SchoolDirectory">
+    <configuration name="BasicMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.adv.maps.BasicMapExample" />
+      <module name="kodilla-course.kodilla-collections-advanced.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.collections.lists.homework.*" />
+          <option name="PATTERN" value="com.kodilla.collections.adv.maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GeneralShapesListApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.lists.GeneralShapesListApplication" />
-      <module name="kodilla-course.kodilla-collections.main" />
+    <configuration name="ComplexMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.adv.maps.complex.ComplexMapExample" />
+      <module name="kodilla-course.kodilla-collections-advanced.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.collections.lists.*" />
+          <option name="PATTERN" value="com.kodilla.collections.adv.maps.complex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapesListApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.lists.ShapesListApplication" />
-      <module name="kodilla-course.kodilla-collections.main" />
+    <configuration name="SchoolDirectory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kodilla.collections.adv.maps.homework.SchoolDirectory" />
+      <module name="kodilla-course.kodilla-collections-advanced.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kodilla.collections.lists.*" />
+          <option name="PATTERN" value="com.kodilla.collections.adv.maps.homework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +198,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SchoolDirectory" />
+        <item itemvalue="Application.ComplexMapExample" />
+        <item itemvalue="Application.BasicMapExample" />
         <item itemvalue="Application.StampsApplication" />
         <item itemvalue="Application.OrderApplication" />
-        <item itemvalue="Application.CarsListApplication" />
-        <item itemvalue="Application.GeneralShapesListApplication" />
-        <item itemvalue="Application.ShapesListApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -211,7 +225,7 @@
       <workItem from="1752421813968" duration="56930000" />
       <workItem from="1753799429973" duration="23709000" />
       <workItem from="1754393703252" duration="23094000" />
-      <workItem from="1755551535159" duration="13251000" />
+      <workItem from="1755551535159" duration="21175000" />
     </task>
     <servers />
   </component>
