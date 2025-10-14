@@ -1,7 +1,7 @@
 package com.kodilla.optional.homework;
 
 import com.kodilla.stream.User;
-
+import com.kodilla.stream.UsersRepository;
 import java.util.List;
 
 public class ForumStats {
@@ -24,7 +24,7 @@ public class ForumStats {
 
     public static void main(String[] args) {
         ForumStats forumStats = new ForumStats();
-        List<User> users = com.kodilla.stream.UsersRepository.getUsersList();
+        List<User> users = UsersRepository.getUsersList(); // ✅ cleaner
 
         System.out.println("Average posts for users >= 40: " + forumStats.collectingUsersOver40(users));
         System.out.println("Average posts for users < 40: " + forumStats.collectingUsersUnder40(users));
