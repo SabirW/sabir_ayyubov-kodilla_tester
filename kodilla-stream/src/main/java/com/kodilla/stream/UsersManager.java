@@ -12,14 +12,13 @@ public class UsersManager {
     }
 
     public static List<String> filterChemistGroupUsernames() {
-        List<String> usernames = UsersRepository.getUsersList()   // [1]
+        return UsersRepository.getUsersList()
                 .stream()
                 .filter(user -> user.getGroup().equals("Chemists"))
                 .map(UsersManager::getUserName)
-                .collect(Collectors.toList());                      // [2]
-
-        return usernames;
+                .collect(Collectors.toList());
     }
+
 
     public static List<String> filterUsersOlderThan(int age) {
         return UsersRepository.getUsersList().stream()
