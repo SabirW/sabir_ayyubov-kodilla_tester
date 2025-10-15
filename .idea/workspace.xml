@@ -5,21 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6f68f02-2835-4cbc-a279-163eb548e967" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/parametrized_tests/StringManipulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/parametrized_tests/homework/GamblingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/parametrized_tests/homework/InvalidNumbersException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/StringManipulatorTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/homework/GamblingMachineTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/resources/lottery-numbers.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/resources/stringWithLowerCase.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/parametrized_tests/StringSources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/parametrized_tests/homework/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/parametrized_tests/homework/PersonTestData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/homework/PersonTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-advanced-tests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-advanced-tests/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/StringManipulatorTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/parametrized_tests/StringManipulatorTestSuite.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +78,7 @@
     "Gradle.GamblingMachineTest.executor": "Run",
     "Gradle.GradesTestSuite.executor": "Run",
     "Gradle.NumberCheckerTestSuite.executor": "Run",
+    "Gradle.PersonTestSuite.executor": "Run",
     "Gradle.PrimeCheckerTestSuite.executor": "Run",
     "Gradle.PrimeCheckerTestSuite.shouldReturnFalseWhenPassingNotPrimeNumber.executor": "Run",
     "Gradle.StringManipulatorTestSuite.executor": "Run",
@@ -170,7 +167,7 @@
       <recent name="com.kodilla.collections.adv.exercises.homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.GamblingMachineTest">
+  <component name="RunManager" selected="Gradle.PersonTestSuite">
     <configuration name="GamblingMachineTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -185,6 +182,30 @@
             <option value=":kodilla-advanced-tests:test" />
             <option value="--tests" />
             <option value="&quot;com.kodilla.parametrized_tests.homework.GamblingMachineTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="PersonTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":kodilla-advanced-tests:test" />
+            <option value="--tests" />
+            <option value="&quot;com.kodilla.parametrized_tests.homework.PersonTestSuite&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -267,37 +288,13 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="UserValidatorTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":kodilla-advanced-tests:test" />
-            <option value="--tests" />
-            <option value="&quot;com.kodilla.parametrized_tests.homework.UserValidatorTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>true</RunAsTest>
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.PersonTestSuite" />
+        <item itemvalue="Gradle.StringManipulatorTestSuite" />
         <item itemvalue="Gradle.GamblingMachineTest" />
         <item itemvalue="Gradle.StringManipulatorTestSuite.shouldReverseStringWithLowerCase" />
         <item itemvalue="Gradle.StringManipulatorTestSuite.shouldCalculateStringLengthWithoutSpaces" />
-        <item itemvalue="Gradle.StringManipulatorTestSuite" />
-        <item itemvalue="Gradle.UserValidatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +321,7 @@
       <workItem from="1756339960976" duration="7093000" />
       <workItem from="1757359559103" duration="598000" />
       <workItem from="1758746026367" duration="9546000" />
-      <workItem from="1760465579183" duration="7040000" />
+      <workItem from="1760465579183" duration="9187000" />
     </task>
     <servers />
   </component>
