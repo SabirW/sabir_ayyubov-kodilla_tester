@@ -9,6 +9,10 @@
       <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/FacebookMessageService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/MessageService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/TextMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/homework/DeliveryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/homework/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/homework/ShippingCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/test/java/com/kodilla/spring/basic/spring_dependency_injection/homework/ShippingCenterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" afterDir="false" />
@@ -24,6 +28,7 @@
       <change beforePath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/TextMessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/TextMessageService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/SimpleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/SimpleApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/SkypeMessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/SkypeMessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/homework/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/homework/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +97,7 @@
     "Gradle.PersonTestSuite.executor": "Run",
     "Gradle.PrimeCheckerTestSuite.executor": "Run",
     "Gradle.PrimeCheckerTestSuite.shouldReturnFalseWhenPassingNotPrimeNumber.executor": "Run",
+    "Gradle.ShippingCenterTest.executor": "Run",
     "Gradle.SimpleApplicationTestSuite.executor": "Run",
     "Gradle.StringManipulatorTestSuite.executor": "Run",
     "Gradle.StringManipulatorTestSuite.shouldCalculateStringLengthWithoutSpaces.executor": "Run",
@@ -180,7 +186,7 @@
       <recent name="com.kodilla.parametrized_tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.SimpleApplicationTestSuite">
+  <component name="RunManager" selected="Gradle.CarConfigurationTest">
     <configuration name="CalculatorTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -205,7 +211,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="MobilePhoneTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="CarConfigurationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -216,9 +222,9 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value=":kodilla-advanced-tests:test" />
+            <option value=":kodilla-spring-basic:test" />
             <option value="--tests" />
-            <option value="&quot;com.kodilla.mockito.MobilePhoneTestSuite&quot;" />
+            <option value="&quot;com.kodilla.spring.basic.spring_configuration.homework.CarConfigurationTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -229,7 +235,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="NotificationServiceTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ShippingCenterTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -240,9 +246,9 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value=":kodilla-advanced-tests:test" />
+            <option value=":kodilla-spring-basic:test" />
             <option value="--tests" />
-            <option value="&quot;com.kodilla.mockito.NotificationServiceTestSuite&quot;" />
+            <option value="&quot;com.kodilla.spring.basic.spring_dependency_injection.homework.ShippingCenterTest&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -303,11 +309,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.CarConfigurationTest" />
+        <item itemvalue="Gradle.ShippingCenterTest" />
         <item itemvalue="Gradle.SimpleApplicationTestSuite" />
         <item itemvalue="Gradle.CalculatorTestSuite" />
         <item itemvalue="Gradle.WeatherAlertServiceTest" />
-        <item itemvalue="Gradle.NotificationServiceTestSuite" />
-        <item itemvalue="Gradle.MobilePhoneTestSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -336,7 +342,7 @@
       <workItem from="1758746026367" duration="9546000" />
       <workItem from="1760465579183" duration="12593000" />
       <workItem from="1760575257503" duration="384000" />
-      <workItem from="1761005554392" duration="3296000" />
+      <workItem from="1761005554392" duration="3621000" />
     </task>
     <servers />
   </component>
