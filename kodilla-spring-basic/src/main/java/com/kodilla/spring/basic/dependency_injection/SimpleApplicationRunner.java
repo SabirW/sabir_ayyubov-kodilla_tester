@@ -5,8 +5,9 @@ public class SimpleApplicationRunner {
     public static void main(String[] args) {
         MessageService messageService = new MessageService() {
             @Override
-            public void send(String message, String receiver) {
+            public String send(String message, String receiver) {
 
+                return message;
             }
         };
         SimpleApplication application = new SimpleApplication(messageService);
