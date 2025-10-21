@@ -5,26 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6f68f02-2835-4cbc-a279-163eb548e967" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/execution_model/Invoice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/execution_model/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/MobilePhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/notification/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/main/java/com/kodilla/mockito/notification/Notification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/execution_model/InvoiceTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/mockito/MobilePhoneTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-advanced-tests/src/test/java/com/kodilla/mockito/NotificationServiceTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/SpringBasicRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/EmailMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/FacebookMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/SimpleApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/SimpleApplicationRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/SkypeMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/TextMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/homework/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/homework/DeliveryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/homework/DeliveryServiceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/homework/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/homework/NotificationServiceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/homework/ShippingCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kodilla-advanced-tests/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-advanced-tests/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +103,7 @@
     &quot;Gradle.UsersManagerTest.usersChemistGroupTest.executor&quot;: &quot;Run&quot;,
     &quot;Gradle.UsersManagerTest.usersOlderThanTest.executor&quot;: &quot;Run&quot;,
     &quot;Gradle.WarehouseTestSuite.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.WeatherAlertServiceTest.executor&quot;: &quot;Run&quot;,
     &quot;Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.abstracts.Application.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.basic_assertion.Application.main()].executor&quot;: &quot;Run&quot;,
     &quot;Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.basic_assertion.application.main()].executor&quot;: &quot;Run&quot;,
@@ -172,11 +170,11 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.kodilla.mockito.homework" />
       <recent name="com.kodilla.mockito" />
       <recent name="com.kodilla.execution_model" />
       <recent name="com.kodilla.parametrized_tests.homework" />
       <recent name="com.kodilla.parametrized_tests" />
-      <recent name="com.kodilla.exception.homework" />
     </key>
   </component>
   <component name="RunManager" selected="Gradle.WeatherAlertServiceTest">
@@ -334,6 +332,8 @@
       <workItem from="1757359559103" duration="598000" />
       <workItem from="1758746026367" duration="9546000" />
       <workItem from="1760465579183" duration="12593000" />
+      <workItem from="1760575257503" duration="384000" />
+      <workItem from="1761005554392" duration="1231000" />
     </task>
     <servers />
   </component>
