@@ -8,7 +8,6 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/books")
-@CrossOrigin(origins = "*") // allows Postman/browser requests
 public class BookController {
 
     private final BookService bookService;
@@ -27,9 +26,8 @@ public class BookController {
         bookService.addBook(bookDto);
     }
 
-    @DeleteMapping("/{title}")
-    public String removeBook(@PathVariable String title) {
-        boolean removed = bookService.removeBook(title);
-        return removed ? "Deleted: " + title : "Book not found: " + title;
+    @DeleteMapping
+    public void deleteBook(@RequestBody BookDto bookDto) {
+        bookService.removeBook(bookDto);
     }
 }

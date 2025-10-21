@@ -16,11 +16,27 @@ repositories {
 }
 
 dependencies {
-    testImplementation 'org.springframework.boot:spring-boot-starter-test'
-    testImplementation 'org.mockito:mockito-core:5.5.0'
+    // Spring Web
     implementation 'org.springframework.boot:spring-boot-starter-web'
+
+    // JUnit 5 & Spring Boot Test
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
+
+    // REST Assured for general API testing
+    testImplementation 'io.rest-assured:rest-assured:5.4.0'
+
+    // REST Assured + Spring MockMvc support
+    testImplementation 'io.rest-assured:spring-mock-mvc:5.3.0'
+
+    // JUnit platform launcher
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+
+    // Mockito for mocking
+    testImplementation 'org.mockito:mockito-core:5.4.0'
+    testImplementation 'org.mockito:mockito-junit-jupiter:5.4.0'
+
+    // Hamcrest matchers (optional but useful for RestAssured)
+    testImplementation 'org.hamcrest:hamcrest:2.2'
 }
 
 tasks.named('test') {
