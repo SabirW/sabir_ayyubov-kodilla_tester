@@ -5,23 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f6f68f02-2835-4cbc-a279-163eb548e967" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/SpringBasicRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/EmailMessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/FacebookMessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/MessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/SimpleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/SimpleApplicationRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/SkypeMessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/TextMessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/homework/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/homework/DeliveryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/homework/DeliveryServiceInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/homework/NotificationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/homework/NotificationServiceInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/dependency_injection/homework/ShippingCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/SimpleApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/spring_dependency_injection/SkypeMessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/test/java/com/kodilla/spring/basic/spring_dependency_injection/SimpleApplicationTestSuite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/checksums/md5-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.13/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/kodilla-course-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/kodilla-course-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-intro/build/classes/java/main/FirstClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-intro/build/classes/java/main/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-intro/build/libs/kodilla-intro-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-intro/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-intro/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring-basic/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring-basic/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/SpringBasicRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/kodilla-spring-basic/src/main/java/com/kodilla/spring/basic/SpringBasicRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,105 +70,106 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.AirportRepositoryTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.AirportRepositoryTestSuite.testIsAirportInUse_withException.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.ApplicationTest.testStudentTeacherPairs.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.BankTestSuite.AddingATMS.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.BankTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CalculatorTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashMachineTestSuite.CalculatingBalance.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashMachineTestSuite.CashMachineDepositing.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashMachineTestSuite.CashMachineProcedures.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.CashMachineTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DictionaryTestSuite.testAddWord.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DictionaryTestSuite.testFindEnglishWords.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.DictionaryTestSuite.testFindEnglishWords_withPartOfSpeech.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightFinderTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.FlightFinderTestSuite.testFlightsForm.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.ForumStatsTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.GamblingMachineTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.GradesTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.InvoiceTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.MobilePhoneTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.NotificationServiceTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.NumberCheckerTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.PersonTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.PrimeCheckerTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.PrimeCheckerTestSuite.shouldReturnFalseWhenPassingNotPrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.StringManipulatorTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.StringManipulatorTestSuite.shouldCalculateStringLengthWithoutSpaces.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.StringManipulatorTestSuite.shouldReverseStringWithLowerCase.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.StringValidatorTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.StudentTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.StudentTestSuite.shouldCalculateStudentAverage.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Tests in 'com.kodilla.school'.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.UserValidatorTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.UserValidatorTest.shouldInvalidateIncorrectEmails.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.UserValidatorTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.UsersManagerTest.usersChemistGroupTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.UsersManagerTest.usersOlderThanTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.WarehouseTestSuite.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.WeatherAlertServiceTest.executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.abstracts.Application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.basic_assertion.Application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.basic_assertion.application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.inheritance.Application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.inheritance.homework.Methods.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.arrays.ShapeApplication.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.arrays.homework.CarsApplication.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.interfaces.InterfacesDemo.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.interfaces.homework.CarRace.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.lists.GeneralShapesListApplication.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.lists.ShapesListApplication.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.lists.homework.CarsListApplication.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.sets.OrderApplication.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.sets.homework.StampsApplication.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-collections-advanced [:kodilla-collections-advanced:com.kodilla.collections.adv.maps.BasicMapExample.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-collections-advanced [:kodilla-collections-advanced:com.kodilla.collections.adv.maps.complex.ComplexMapExample.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-collections-advanced [:kodilla-collections-advanced:com.kodilla.collections.adv.maps.homework.SchoolDirectory.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:AdvCalcApplication.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:CalcApplication.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:CollorShowing.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:DebugExample.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:FirstClass.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:HelloWorld.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:LeapYear.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Loops.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:MainExtended.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Notebook.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:RandomNumbers.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:SimpleArray.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-intro [:kodilla-intro:main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.exception.FirstExample.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.exception.SecondExample.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.exception.ThirdExample.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.optional.OptionalExample.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.optional.homework.Application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.optional.homework.ForumStats.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.stream.AverageAge.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.stream.UsersManager.main()].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Mappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.AirportRepositoryTestSuite.executor": "Run",
+    "Gradle.AirportRepositoryTestSuite.testIsAirportInUse_withException.executor": "Run",
+    "Gradle.ApplicationTest.testStudentTeacherPairs.executor": "Run",
+    "Gradle.BankTestSuite.AddingATMS.executor": "Run",
+    "Gradle.BankTestSuite.executor": "Run",
+    "Gradle.CalculatorTestSuite.executor": "Run",
+    "Gradle.CashMachineTestSuite.CalculatingBalance.executor": "Run",
+    "Gradle.CashMachineTestSuite.CashMachineDepositing.executor": "Run",
+    "Gradle.CashMachineTestSuite.CashMachineProcedures.executor": "Run",
+    "Gradle.CashMachineTestSuite.executor": "Run",
+    "Gradle.DictionaryTestSuite.testAddWord.executor": "Run",
+    "Gradle.DictionaryTestSuite.testFindEnglishWords.executor": "Run",
+    "Gradle.DictionaryTestSuite.testFindEnglishWords_withPartOfSpeech.executor": "Run",
+    "Gradle.FlightFinderTest.executor": "Run",
+    "Gradle.FlightFinderTestSuite.testFlightsForm.executor": "Run",
+    "Gradle.ForumStatsTest.executor": "Run",
+    "Gradle.GamblingMachineTest.executor": "Run",
+    "Gradle.GradesTestSuite.executor": "Run",
+    "Gradle.InvoiceTestSuite.executor": "Run",
+    "Gradle.MobilePhoneTestSuite.executor": "Run",
+    "Gradle.NotificationServiceTestSuite.executor": "Run",
+    "Gradle.NumberCheckerTestSuite.executor": "Run",
+    "Gradle.PersonTestSuite.executor": "Run",
+    "Gradle.PrimeCheckerTestSuite.executor": "Run",
+    "Gradle.PrimeCheckerTestSuite.shouldReturnFalseWhenPassingNotPrimeNumber.executor": "Run",
+    "Gradle.SimpleApplicationTestSuite.executor": "Run",
+    "Gradle.StringManipulatorTestSuite.executor": "Run",
+    "Gradle.StringManipulatorTestSuite.shouldCalculateStringLengthWithoutSpaces.executor": "Run",
+    "Gradle.StringManipulatorTestSuite.shouldReverseStringWithLowerCase.executor": "Run",
+    "Gradle.StringValidatorTestSuite.executor": "Run",
+    "Gradle.StudentTestSuite.executor": "Run",
+    "Gradle.StudentTestSuite.shouldCalculateStudentAverage.executor": "Run",
+    "Gradle.Tests in 'com.kodilla.school'.executor": "Run",
+    "Gradle.UserValidatorTest.executor": "Run",
+    "Gradle.UserValidatorTest.shouldInvalidateIncorrectEmails.executor": "Run",
+    "Gradle.UserValidatorTestSuite.executor": "Run",
+    "Gradle.UsersManagerTest.usersChemistGroupTest.executor": "Run",
+    "Gradle.UsersManagerTest.usersOlderThanTest.executor": "Run",
+    "Gradle.WarehouseTestSuite.executor": "Run",
+    "Gradle.WeatherAlertServiceTest.executor": "Run",
+    "Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.abstracts.Application.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.basic_assertion.Application.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.basic_assertion.application.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.inheritance.Application.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-basic-tests [:kodilla-basic-tests:com.kodilla.inheritance.homework.Methods.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.arrays.ShapeApplication.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.arrays.homework.CarsApplication.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.interfaces.InterfacesDemo.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.interfaces.homework.CarRace.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.lists.GeneralShapesListApplication.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.lists.ShapesListApplication.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.lists.homework.CarsListApplication.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.sets.OrderApplication.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections [:kodilla-collections:com.kodilla.collections.sets.homework.StampsApplication.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections-advanced [:kodilla-collections-advanced:com.kodilla.collections.adv.maps.BasicMapExample.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections-advanced [:kodilla-collections-advanced:com.kodilla.collections.adv.maps.complex.ComplexMapExample.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-collections-advanced [:kodilla-collections-advanced:com.kodilla.collections.adv.maps.homework.SchoolDirectory.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:AdvCalcApplication.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Application.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:CalcApplication.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:CollorShowing.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:DebugExample.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:FirstClass.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:HelloWorld.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:LeapYear.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Loops.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:MainExtended.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:Notebook.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:RandomNumbers.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:SimpleArray.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-intro [:kodilla-intro:main.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.exception.FirstExample.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.exception.SecondExample.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.exception.ThirdExample.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.optional.OptionalExample.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.optional.homework.Application.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.optional.homework.ForumStats.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.stream.AverageAge.main()].executor": "Run",
+    "Gradle.kodilla-course:kodilla-stream [:kodilla-stream:com.kodilla.stream.UsersManager.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.kodilla.collections.adv.maps.homework" />
@@ -177,7 +185,7 @@
       <recent name="com.kodilla.parametrized_tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.WeatherAlertServiceTest">
+  <component name="RunManager" selected="Gradle.SimpleApplicationTestSuite">
     <configuration name="InvoiceTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -250,7 +258,7 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
-    <configuration name="PersonTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="SimpleApplicationTestSuite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -261,9 +269,9 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value=":kodilla-advanced-tests:test" />
+            <option value=":kodilla-spring-basic:test" />
             <option value="--tests" />
-            <option value="&quot;com.kodilla.parametrized_tests.homework.PersonTestSuite&quot;" />
+            <option value="&quot;com.kodilla.spring.basic.spring_dependency_injection.SimpleApplicationTestSuite&quot;" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -300,11 +308,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.SimpleApplicationTestSuite" />
         <item itemvalue="Gradle.WeatherAlertServiceTest" />
         <item itemvalue="Gradle.NotificationServiceTestSuite" />
         <item itemvalue="Gradle.MobilePhoneTestSuite" />
         <item itemvalue="Gradle.InvoiceTestSuite" />
-        <item itemvalue="Gradle.PersonTestSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +341,7 @@
       <workItem from="1758746026367" duration="9546000" />
       <workItem from="1760465579183" duration="12593000" />
       <workItem from="1760575257503" duration="384000" />
-      <workItem from="1761005554392" duration="1231000" />
+      <workItem from="1761005554392" duration="2022000" />
     </task>
     <servers />
   </component>
